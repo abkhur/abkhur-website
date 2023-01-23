@@ -1,0 +1,24 @@
+body {
+ 	z-index: 0; 
+	font-family: "Lucida Sans", "Lucida Sans Unicode", sans-serif;
+    background-color:#bfbfbf;
+    width: 100vw;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+img.Logo {
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    height: auto;
+    padding: 7cm 0;
+}
+
+img.Spinner {
+    display: block;
+    margin: 0 auto;
+    padding: 0cm 0;
+    width: 100px;
+    height: auto;
+}
